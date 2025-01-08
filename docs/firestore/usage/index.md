@@ -22,6 +22,8 @@ yarn add @react-native-firebase/firestore
 cd ios/ && pod install
 ```
 
+If you're using expo you will need to run manual builds the first time for each platform. 
+
 If you're using an older version of React Native without autolinking support, or wish to integrate into an existing project,
 you can follow the manual installation steps for [iOS](/firestore/usage/installation/ios) and [Android](/firestore/usage/installation/android).
 
